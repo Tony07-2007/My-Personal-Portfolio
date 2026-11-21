@@ -3,7 +3,7 @@ import type { PortfolioData } from '../types/portfolio';
 export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
   profile: {
     name: 'Onubuikem Okanta',
-    role: 'Product Designer & Design Engineer',
+    role: 'Product Designer & Front-End Engineer',
     location: 'Lagos, Nigeria',
     availability: 'Open to new opportunities',
     headline: 'Hi, I’m Onubuikem Okanta.',
@@ -179,7 +179,7 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
   experience: [
     {
       id: 'exp-1',
-      role: 'Independent Design Engineer',
+      role: 'Independent Front-End Engineer',
       company: 'Studio Onubuikem Okanta',
       location: 'San Francisco',
       period: '2023 — Present',
@@ -188,7 +188,7 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
     },
     {
       id: 'exp-2',
-      role: 'Staff Product Designer',
+      role: 'Staff Front-End Engineer',
       company: 'Linearity Cloud',
       location: 'San Francisco',
       period: '2020 — 2023',
@@ -197,7 +197,7 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
     },
     {
       id: 'exp-3',
-      role: 'Senior UI Engineer',
+      role: 'Senior Front-End Engineer',
       company: 'Northstar Systems',
       location: 'New York',
       period: '2017 — 2020',
