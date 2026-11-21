@@ -17,8 +17,8 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
     accent: 'forest',
     heroImageUrl: '/assets/aistudio/IMG_20260904_102345_323_d4e87ef7.jpg',
     heroImageAlt: 'Portrait of Onubuikem Okanta.',
-    githubUrl: 'https://github.com',
-    linkedinUrl: 'https://linkedin.com',
+    githubUrl: 'https://github.com/Tony07-2007/',
+    linkedinUrl: 'https://linkedin.com/in/onubuikem-okanta-4b42372b9/',
   },
   metrics: [
     { id: 'years', value: '12+', label: 'Years of Experience' },
